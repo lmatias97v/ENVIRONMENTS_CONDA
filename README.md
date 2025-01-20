@@ -1,0 +1,2 @@
+# ENVIRONMENTS_CONDA
+yml files from environments conda for INSTITUTO NACIONAL DE SALUD PUBLICA - MÉXICO
